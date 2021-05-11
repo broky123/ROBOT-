@@ -8,18 +8,19 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Haii Guys, Apa Kabar Kamu??:)) {message.from_user.first_name}!</b>
 
-𝐀𝐊𝐔 𝐀𝐃𝐀𝐋𝐀𝐇 𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐘𝐀𝐍𝐆 𝐃𝐈 𝐊𝐄𝐌𝐁𝐀𝐍𝐆𝐊𝐀𝐍 𝐎𝐋𝐄𝐇 : @boyfriendnice
-𝐀𝐏𝐀𝐁𝐈𝐋𝐀 𝐈𝐍𝐆𝐈𝐍 𝐌𝐄𝐍𝐆𝐆𝐔𝐍𝐀𝐊𝐀𝐍 𝐀𝐊𝐔 𝐈𝐍𝐕𝐈𝐓𝐄 𝐀𝐊𝐔 𝐃𝐀𝐍 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐍𝐘𝐀 𝐀𝐆𝐀𝐑 𝐁𝐈𝐒𝐀 𝐁𝐄𝐑𝐉𝐀𝐋𝐀𝐍 𝐃𝐄𝐍𝐆𝐀𝐍 𝐋𝐀𝐍𝐂𝐀𝐑 𝐉𝐀𝐃𝐈𝐊𝐀𝐍 𝐀𝐃𝐌𝐈𝐍 𝐊𝐄𝐃𝐔𝐀𝐍𝐘𝐀.
-════════════════════════════
-│>𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝙸𝚂𝚃 𝙻𝙰𝙶𝚄 𝚂𝙴𝙺𝙰𝙻𝙸𝙶𝚄𝚂 𝚃𝙰𝙺𝚄𝚃 𝙴𝚁𝙾𝚁.
-│>𝙹𝙸𝙺𝙰 𝙷𝙰𝙱𝙸𝚂 𝙳𝙸𝙼𝙰𝚃𝙸𝙺𝙰𝙽 𝙿𝙰𝙺𝚂𝙰 𝙹𝙰𝙽𝙶𝙰𝙽 
-│𝙻𝙰𝙽𝙶𝚂𝚄𝙽𝙶 𝙿𝙻𝙰𝚈 𝙻𝙰𝙶𝚄 𝚃𝚄𝙽𝙶𝙶𝚄 𝚂𝙴𝙱𝙴𝙽𝚃𝙰𝚁 𝙹𝙸𝙺𝙰 
-│𝚃𝙸𝙳𝙰𝙺, 𝙰𝚂𝙸𝚂𝚃𝙴𝙽 𝚃𝙸𝙳𝙰𝙺 𝙰𝙺𝙰𝙽 𝙽𝙰𝙸𝙺.
-════════════════════════════
-𝐉𝐈𝐊𝐀 𝐀𝐃𝐀 𝐊𝐄𝐍𝐃𝐀𝐋𝐀 𝐁𝐈𝐒𝐀 𝐂𝐇𝐀𝐓 𝐎𝐖𝐍𝐄𝐑𝐍𝐘𝐀!!
-════════════════════════════
-𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 : @officialheartbot - 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐌𝐔𝐒𝐈𝐊 : @AsisstantOneHeart
+𝘈𝘒𝘜 𝘈𝘋𝘈𝘓𝘈𝘏 𝘉𝘖𝘛 𝘔𝘜𝘚𝘐𝘒 𝘛𝘌𝘓𝘌𝘎𝘙𝘈𝘔 𝘠𝘈𝘕𝘎 𝘋𝘐 𝘒𝘌𝘔𝘉𝘈𝘕𝘎𝘒𝘈𝘕 𝘖𝘓𝘌𝘏 : @boyfriendnice
 
+𝘈𝘗𝘈𝘉𝘐𝘓𝘈 𝘐𝘕𝘎𝘐𝘕 𝘔𝘌𝘕𝘎𝘎𝘜𝘕𝘈𝘒𝘈𝘕 𝘈𝘒𝘜 𝘐𝘕𝘝𝘐𝘛𝘌 𝘈𝘒𝘜 𝘋𝘈𝘕 𝘈𝘚𝘐𝘚𝘚𝘛𝘈𝘕𝘛 𝘕𝘠𝘈 𝘓𝘈𝘓𝘜 𝘑𝘈𝘋𝘐𝘒𝘈𝘕 𝘈𝘋𝘔𝘐𝘕 𝘒𝘌𝘋𝘜𝘈𝘕𝘠𝘈 𝘈𝘎𝘈𝘙 𝘉𝘐𝘚𝘈 𝘉𝘌𝘙𝘑𝘈𝘓𝘈𝘕 𝘋𝘌𝘕𝘎𝘈𝘕 𝘓𝘈𝘕𝘊𝘈𝘙.
+┏━━━━━━━━━━━━━━
+┣ > 𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝙸𝚂𝚃 𝙻𝙰𝙶𝚄 𝚂𝙴𝙺𝙰𝙻𝙸𝙶𝚄𝚂 𝚃𝙰𝙺𝚄𝚃 𝙴𝚁𝙾𝚁.
+┣ > 𝙹𝙸𝙺𝙰 𝙷𝙰𝙱𝙸𝚂 𝙳𝙸𝙼𝙰𝚃𝙸𝙺𝙰𝙽 𝙿𝙰𝙺𝚂𝙰 𝙹𝙰𝙽𝙶𝙰𝙽 
+    𝙻𝙰𝙽𝙶𝚂𝚄𝙽𝙶 𝙿𝙻𝙰𝚈 𝙻𝙰𝙶𝚄 𝚃𝚄𝙽𝙶𝙶𝚄 𝚂𝙴𝙱𝙴𝙽𝚃𝙰𝚁 
+    𝙹𝙸𝙺𝙰 𝚃𝙸𝙳𝙰𝙺, 𝙰𝚂𝙸𝚂𝚃𝙴𝙽 𝚃𝙸𝙳𝙰𝙺 𝙰𝙺𝙰𝙽 𝙽𝙰𝙸𝙺.
+┗━━━━━━━━━━━━━━
+🤵𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 : [loveMe](https://t.me/boyfriendnice)
+☘️𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 : [Group Support](https://t.me/remaja_virtual62)
+━━━━━━━━━━━━━━
+𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 : @officialheartbot - 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐌𝐔𝐒𝐈𝐊 : @AsisstantOneHeart
 
 
         """,
@@ -27,16 +28,16 @@ async def start(_, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "⚡ Owner", url="https://t.me/boyfriendnice")
+                        "Owner", url="https://t.me/boyfriendnice")
                   ],[
                     InlineKeyboardButton(
-                        "🍃 Channel Aku", url="https://t.me/chvirtual62"
+                        "Channel", url="https://t.me/chvirtual62"
                     ),
                     InlineKeyboardButton(
-                        "❤️ Grup", url="https://t.me/remaja_virtual62") 
+                        "Group", url="https://t.me/remaja_virtual62") 
                   ],[
                     InlineKeyboardButton(
-                        "👸 My bot help", url="https://t.me/@Asisstant_groupbot"
+                        "My bot help", url="https://t.me/@Asisstant_groupbot"
                     )
                 ]
             ]
@@ -51,10 +52,10 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌙 Group Support", url="https://t.me/remaja_virtual62"
+                        "Group Support", url="https://t.me/remaja_virtual62"
                     ),
                     InlineKeyboardButton(
-                        "⚡ Owner", url="https://t.me/boyfriendnice"
+                        "Owner", url="https://t.me/boyfriendnice"
                     )
                 ]
             ]
@@ -68,10 +69,10 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡ Onwer", url="https://t.me/boyfriendnice") 
+                        "Onwer", url="https://t.me/boyfriendnice") 
                 ],[
                     InlineKeyboardButton(
-                        "🌙 Group Support", url="https://t.me/remaja_virtual62"
+                        "Group Support", url="https://t.me/remaja_virtual62"
                     )
                 ]
             ]
@@ -85,8 +86,7 @@ async def gstart(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "🦇 Cara Memakai Bot Music!", url="https://t.me/humangabutguys/91577"
+                   
                     )
                 ]
             ]
