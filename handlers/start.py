@@ -35,7 +35,7 @@ async def start(_, message: Message):
                         "Group", url="https://t.me/remaja_virtual62") 
                   ],[
                     InlineKeyboardButton(
-                        "Instagram", https://www.instagram.com/ikyyy_35/
+                        "Help bot", https://t.me/Asisstant_groupbot"
                     )
                 ]
             ]
